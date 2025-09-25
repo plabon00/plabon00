@@ -1,13 +1,14 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=blur&height=300&color=gradient&text=Hi%20👋,%20I'm%20Plaban%20Sarkar%20👨🏻‍💻&section=header&reversal=false&animation=fadeIn&textBg=false&fontColor=fff"/>
+  <img src="https://capsule-render.vercel.app/api?type=venom&height=301&color=gradient&text=Hi%20👋,%20I'm%20Plaban%20Sarkar%20👨🏻‍💻&section=header&reversal=false&animation=fadeIn&textBg=false&fontColor=fff"/>
 </p>
 
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Merriweather&size=32&pause=1000&color=F7D02C&center=true&vCenter=true&width=435&lines=Hello+Dev;Wellcome+to+my+Profile" alt="Typing SVG" /></a>
 </h1>
 
-
-<h3 align="center">A passionate Backend Developer from India 🇮🇳</h3>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header&text=A%20passionate%20Backend%20Developer%20from%20India%20🇮🇳&textBg=false&fontSize=28&fontColor=fff"/>
+</p>
 
 
 <h4 align = "center">
