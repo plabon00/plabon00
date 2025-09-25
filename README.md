@@ -1,5 +1,10 @@
-<h1 align="center">Hi 👋, I'm Plaban Sarkar👨🏻‍💻</h1>
+<h1 align="center">Hi 👋, I'm Plaban Sarkar 👨🏻‍💻</h1>
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Merriweather&size=32&pause=1000&color=F7D02C&center=true&vCenter=true&width=435&lines=Hello+Dev;Wellcome+to+my+Profile" alt="Typing SVG" /></a>
+</h1>
+
 <h3 align="center">A passionate Backend Developer from India 🇮🇳</h3>
+
 
 - 🔭 I’m currently working on **Mobile Development**
 
