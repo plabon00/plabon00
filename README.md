@@ -1,9 +1,14 @@
-<h1 align="center">Hi 👋, I'm Plaban Sarkar 👨🏻‍💻</h1>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=blur&height=300&color=gradient&text=Hi%20👋,%20I'm%20Plaban%20Sarkar%20👨🏻‍💻&section=header&reversal=false&animation=fadeIn&textBg=false&fontColor=fff"/>
+</p>
+
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Merriweather&size=32&pause=1000&color=F7D02C&center=true&vCenter=true&width=435&lines=Hello+Dev;Wellcome+to+my+Profile" alt="Typing SVG" /></a>
 </h1>
 
+
 <h3 align="center">A passionate Backend Developer from India 🇮🇳</h3>
+
 
 <h4 align = "center">
   Currently pursuing B.Tech in Computer Science and Engineering with a focus on Artificial Intelligence 🎓.<br>
