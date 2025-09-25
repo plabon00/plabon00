@@ -5,6 +5,11 @@
 
 <h3 align="center">A passionate Backend Developer from India 🇮🇳</h3>
 
+<h4 align = "center">
+  Pursuing B.Tech in Computer Science and Engineering with a specialization in Artificial Intelligence 🎓.<br />
+  I am a curious learner who possess an unwavering zeal to explore different domains of technology and gain mastery in them. 
+</h4>
+<hr>
 
 - 🔭 I’m currently working on **Mobile Development**
 
@@ -16,8 +21,8 @@
 
 - ⚡ Fun fact **I think I am Lazy.**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<h3 align="center">Connect with me:</h3>
+<p align="center">
 <a href="https://linkedin.com/in/plaban-srkr001" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="plaban-srkr001" height="30" width="40" /></a>
 <a href="https://instagram.com/plabon_srkr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="plabon_srkr" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/sarkarplabon576" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="sarkarplabon576" height="30" width="40" /></a>
