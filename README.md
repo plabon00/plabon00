@@ -6,8 +6,8 @@
 <h3 align="center">A passionate Backend Developer from India 🇮🇳</h3>
 
 <h4 align = "center">
-  Pursuing B.Tech in Computer Science and Engineering with a specialization in Artificial Intelligence 🎓.<br />
-  I am a curious learner who possess an unwavering zeal to explore different domains of technology and gain mastery in them. 
+  Currently pursuing B.Tech in Computer Science and Engineering with a focus on Artificial Intelligence 🎓.<br>
+I am an enthusiastic learner with a strong passion for exploring diverse areas of technology and striving to excel in each of them.
 </h4>
 <hr>
 
