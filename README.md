@@ -16,9 +16,10 @@
 I am an enthusiastic learner with a strong passion for exploring diverse areas of technology and striving to excel in each of them.
 </h4>
 
-
 <hr>
 <div>
+
+<div align="left">
 <ul>
   <li>🔭 I’m currently working on <b>Mobile Development</b></li>
   <li>🌱 I’m currently learning <b>React, SpringBoot, Android</b></li>
@@ -27,6 +28,9 @@ I am an enthusiastic learner with a strong passion for exploring diverse areas o
   <li>⚡ Fun fact <b>I think I am Lazy.</b></li>
 </ul>
 </div>
+</div>
+
+<img src="https://octodex.github.com/images/NUX_Octodex.gif" alt="Octocat" width="300"/>
 
 
 ## 🌐 Socials:
