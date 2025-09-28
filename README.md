@@ -26,20 +26,23 @@ I am an enthusiastic learner with a strong passion for exploring diverse areas o
 <p align="center">
 
 <a href="https://facebook.com/Plabon_Sarkar">
-  <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white" height="30"/>
+  <img src="./assets/Facebook Logo Effect.gif" height="60"/>
 </a>&nbsp;&nbsp;
 <a href="https://instagram.com/plabon_srkr">
-  <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" height="30"/>
+  <img src="./assets/Instagram Logo.gif" height="80"/>
 </a>&nbsp;&nbsp;
 <a href="https://linkedin.com/in/plaban-srkr001">
-  <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" height="30"/>
+  <img src="./assets/Linkedin Icon.gif" height="80"/>
 </a>&nbsp;&nbsp;
 <a href="mailto:sarkarplabon576@gmail.com">
-  <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" height="30"/>
-</a>&nbsp;&nbsp;
-<img src="./assets/Loading Documents.gif" height="50"/>
-&nbsp;&nbsp;
+  <img src="./assets/Verify Your Email.gif" height="80"/>
+</a ">&nbsp;&nbsp;
+<a href="https://drive.google.com/file/d/1SooC_jPORzkwJRcYUm7EOYxtW9t4-h2n/view?usp=share_link">
+  <img src="./assets/Loading Documents.gif" height="50"/>
+</a>
+
 </p>
+
 <p  align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" height="30"/>
 </p>
