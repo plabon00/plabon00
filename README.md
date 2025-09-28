@@ -1,15 +1,11 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&height=160&color=gradient&text=Hi%20👋,%20I'm%20Plaban%20Sarkar%20👨🏻‍💻&section=header&reversal=false&animation=fadeIn&textBg=false&fontColor=fff"/>
+  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif"/>
 </p>
 
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Merriweather&size=32&pause=1000&color=F7D02C&center=true&vCenter=true&width=435&lines=Wellcome+to+my+Profile" alt="Typing SVG" /></a>
-</h1>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header&text=A%20passionate%20Backend%20Developer%20from%20India%20🇮🇳&textBg=false&fontSize=28&fontColor=fff"/>
+  <img src="https://capsule-render.vercel.app/api?type=venom&height=160&color=gradient&text=Hi%20👋,%20I'm%20Plaban%20Sarkar%20👨🏻‍💻&section=header&reversal=false&animation=fadeIn&textBg=false&fontColor=fff"/>
 </p>
-
 
 <h4 align = "center">
   Currently pursuing B.Tech in Computer Science and Engineering with a focus on Artificial Intelligence 🎓.<br>
@@ -30,7 +26,7 @@ I am an enthusiastic learner with a strong passion for exploring diverse areas o
 </div>
 </div>
 
-<img src="https://octodex.github.com/images/NUX_Octodex.gif" alt="Octocat" width="300"/>
+<img src="https://private-user-images.githubusercontent.com/74038190/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NTkwMzczNDMsIm5iZiI6MTc1OTAzNzA0MywicGF0aCI6Ii83NDAzODE5MC8yNDE3NjU0NDAtODA3Mjg4MjAtZTA2Yi00Zjk2LTljOWUtOWRmNDZmMGNjMGE1LmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTA5MjglMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwOTI4VDA1MjQwM1omWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTAwMmYzMmI3NTdhNTIxOWEwZTFlNDU4ZjAyM2Q0OGU2ZDA1MDYyOWU1NTdiYzhjMjRiMGM4ZjY0MWE1ZWJmOWMmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.WexSkbHC-DQexkjhV1rzzMUeYdlYAxJHJQp6UIsuoVM" alt="Octocat" width="max"/>
 
 
 ## 🌐 Socials:
