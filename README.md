@@ -24,22 +24,27 @@ I am an enthusiastic learner with a strong passion for exploring diverse areas o
 
 ## 🌐 Socials:
 <p align="center">
-  <a href="https://facebook.com/Plabon_Sarkar">
-    <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white"/>
-  </a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://instagram.com/plabon_srkr">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white"/>
-  </a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://linkedin.com/in/plaban-srkr001">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white"/>
-  </a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="mailto:sarkarplabon576@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white"/>
-  </a>
+
+<a href="https://facebook.com/Plabon_Sarkar">
+  <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white" height="30"/>
+</a>&nbsp;&nbsp;
+<a href="https://instagram.com/plabon_srkr">
+  <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" height="30"/>
+</a>&nbsp;&nbsp;
+<a href="https://linkedin.com/in/plaban-srkr001">
+  <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" height="30"/>
+</a>&nbsp;&nbsp;
+<a href="mailto:sarkarplabon576@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" height="30"/>
+</a>&nbsp;&nbsp;
+<img src="./assets/Loading Documents.gif" height="50"/>
+&nbsp;&nbsp;
 </p>
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="max"/>
+<p  align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" height="30"/>
 </p>
+
+
 
 ## 💻 Tech Stack: 
 
