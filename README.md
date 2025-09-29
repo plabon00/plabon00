@@ -23,25 +23,30 @@ I am an enthusiastic learner with a strong passion for exploring diverse areas o
 </p>
 
 ## 🌐 Socials:
-<p align="center">
 
-<a href="https://facebook.com/Plabon_Sarkar">
-  <img src="./assets/Facebook Logo Effect.gif" height="60"/>
-</a>&nbsp;&nbsp;
-<a href="https://instagram.com/plabon_srkr">
-  <img src="./assets/Instagram Logo.gif" height="80"/>
-</a>&nbsp;&nbsp;
-<a href="https://linkedin.com/in/plaban-srkr001">
-  <img src="./assets/Linkedin Icon.gif" height="80"/>
-</a>&nbsp;&nbsp;
-<a href="mailto:sarkarplabon576@gmail.com">
-  <img src="./assets/Verify Your Email.gif" height="80"/>
-</a ">&nbsp;&nbsp;
-<a href="https://drive.google.com/file/d/1SooC_jPORzkwJRcYUm7EOYxtW9t4-h2n/view?usp=share_link">
-  <img src="./assets/Loading Documents.gif" height="50"/>
-</a>
 
-</p>
+<table align="center" width="500">
+  <tr>
+    <td align="center" valign="middle">
+      <a href="https://facebook.com/Plabon_Sarkar">
+        <img src="./assets/Facebook Logo Effect.gif" height="60" alt="Facebook"/>
+      </a>&nbsp;
+      <a href="https://instagram.com/plabon_srkr">
+        <img src="./assets/Instagram Logo.gif" height="60" alt="Instagram"/>
+      </a>&nbsp;
+      <a href="https://linkedin.com/in/plaban-srkr001">
+        <img src="./assets/Linkedin Icon.gif" height="60" alt="LinkedIn"/>
+      </a>&nbsp;
+      <a href="mailto:sarkarplabon576@gmail.com">
+        <img src="./assets/Verify Your Email.gif" height="60" alt="Email"/>
+      </a>&nbsp;
+      <a href="https://drive.google.com/file/d/1SooC_jPORzkwJRcYUm7EOYxtW9t4-h2n/view?usp=share_link">
+        <img src="./assets/Loading Documents.gif" height="60" alt="Docs"/>
+      </a>
+    </td>
+  </tr>
+</table>
+
 
 <p  align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" height="30"/>
