@@ -18,10 +18,6 @@ I am an enthusiastic learner with a strong passion for exploring diverse areas o
 </p>
 
 
-<p align="center">
-  <img src="./assets/A%20passionate%20Backend%20Developer%20from%20India.gif" alt="Banner" width="100%"/>
-</p>
-
 ## 🌐 Socials:
 
 
